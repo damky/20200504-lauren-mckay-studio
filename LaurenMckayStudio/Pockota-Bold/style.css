@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Pockota';
+    src: local('Pockota Bold'), local('Pockota-Bold'),
+        url('Pockota-Bold.woff2') format('woff2'),
+        url('Pockota-Bold.woff') format('woff'),
+        url('Pockota-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
